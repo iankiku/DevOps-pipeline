@@ -8,7 +8,7 @@ ALT-H3 SELF-HOSTED
 
 + ![JENKINS][jenkins-logo |20%]  [Jenkins](https://www.google.com)
 <!-- #link of image -->
-[jenkins-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "JENKINS"
+[jenkins-logo]: https://github.com/iankiku/DevOps-pipeline "JENKINS"
 
 
 
@@ -17,12 +17,12 @@ ALT-H3 CLOUD SERVICE PROVIDERS
 
 + ![AWS][aws-logo]  [AWS](https://www.google.com)
 <!-- #AWS LOGO -->
-[aws-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "AWS"
+[aws-logo]: https://github.com/iankiku "AWS"
 
 + ![AZURE][azure-logo]  [AZURE](https://www.google.com)
 <!-- #Azure LOGO -->
-[azure-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "AZURE"
+[azure-logo]: https://github.com/iankiku "AZURE"
 
 + ![GOOGLE][gcp-logo]  [GCP](https://www.google.com)
 <!-- #GCP LOGO -->
-[gcp-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "GCP"
+[gcp-logo]: https://github.com/iankiku "GCP"
