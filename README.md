@@ -1,28 +1,28 @@
-ALT-H1 DevOps Pipeline
+# DevOps Pipeline
+-----------------
 
 ### This Repository contains CI-CD pipeline build scripts for the listed CI-CD environment. 
 This is a good to have tool in the toolkit of every DevOps Engineer or Software Developer.
 
+## SELF-HOSTED
+==============
 
-ALT-H3 SELF-HOSTED
-
-+ ![JENKINS][jenkins-logo |20%]  [Jenkins](https://www.google.com)
++ ![alt-text-jenkins][jenkins-logo]  [Jenkins](https://github.com/iankiku/DevOps-pipeline/tree/jenkins)
 <!-- #link of image -->
-[jenkins-logo]: https://github.com/iankiku/DevOps-pipeline "JENKINS"
+[jenkins-logo]: https://github.com/iankiku/DevOps-pipeline/blob/main/img/jenkins.png "JENKINS"
 
+## CLOUD SERVICE PROVIDERS
+==========================
 
++ ![alt-text-aws][aws-logo]  [AWS](https://github.com/iankiku/DevOps-pipeline/tree/aws-pipeline)
 
-
-ALT-H3 CLOUD SERVICE PROVIDERS 
-
-+ ![AWS][aws-logo]  [AWS](https://www.google.com)
 <!-- #AWS LOGO -->
-[aws-logo]: https://github.com/iankiku "AWS"
+[aws-logo]: https://github.com/iankiku/DevOps-pipeline/blob/main/img/aws.png "AWS"
 
-+ ![AZURE][azure-logo]  [AZURE](https://www.google.com)
++ ![alt-text-azure][azure-logo]  [AZURE](https://github.com/iankiku/DevOps-pipeline/tree/azure-pipeline)
 <!-- #Azure LOGO -->
-[azure-logo]: https://github.com/iankiku "AZURE"
+[azure-logo]: https://github.com/iankiku/DevOps-pipeline/blob/main/img/azure.png "AZURE"
 
-+ ![GOOGLE][gcp-logo]  [GCP](https://www.google.com)
++ ![alt-text-gcp][gcp-logo]  [GCP](https://github.com/iankiku/DevOps-pipeline/tree/google-cloud-pipeline)
 <!-- #GCP LOGO -->
-[gcp-logo]: https://github.com/iankiku "GCP"
+[gcp-logo]: https://github.com/iankiku/DevOps-pipeline/blob/main/img/gcp.png "GCP"
