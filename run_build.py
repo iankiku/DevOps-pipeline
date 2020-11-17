@@ -9,3 +9,6 @@ def run_build(pipeline):
     """
 
     return pipeline
+
+
+run_build(pipeline)
